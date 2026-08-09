@@ -1,5 +1,7 @@
 # Use Case: Enterprise Private Model Hosting
 
+**YouTube walkthrough:** [Enterprise Private Model Hosting — System Design #Shorts](https://youtu.be/HTAHED5x_sw)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Reuse parent: continuous batching, KV management, canaries—but **do not share 
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Enterprise Private Model Hosting — System Design #Shorts](https://youtu.be/HTAHED5x_sw)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
