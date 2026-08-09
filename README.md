@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [01 — LLM Inference Serving](./01-llm-inference-serving.md)
+**Parent system design:** [01 — LLM Inference Serving](https://github.com/Debashis2007/enterprise-private-model-hosting/blob/main/01-llm-inference-serving.md)
 
 ## Users & problem
 
@@ -41,7 +41,7 @@ Reuse parent: continuous batching, KV management, canaries—but **do not share 
 | Pools | Dedicated replicas; optional customer-managed keys |
 | Networking | Private connectivity; no shared egress path |
 | Ops | Per-tenant runbooks, maintenance windows |
-| Safety | Enterprise policy packs ([06](./06-safety-moderation-pipeline.md)) |
+| Safety | Enterprise policy packs ([06](https://github.com/Debashis2007/enterprise-private-model-hosting/blob/main/06-safety-moderation-pipeline.md)) |
 
 ## Failure modes
 
