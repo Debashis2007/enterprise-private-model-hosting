@@ -1,5 +1,7 @@
 # Use Case: Enterprise Private Model Hosting
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Enterprise Private Model Hosting — System Design #Shorts](https://youtu.be/HTAHED5x_sw)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
