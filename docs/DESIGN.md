@@ -1,7 +1,7 @@
 # Design: Enterprise Private Model Hosting
 
 **Project:** `enterprise-private-model-hosting`  
-**Parent system design:** `01-llm-inference-serving.md`
+**Parent system design:** [01 — LLM Inference Serving](../01-llm-inference-serving.md)
 
 ## 1. What this POC demonstrates
 
